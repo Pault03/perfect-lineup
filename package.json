@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "./node_modules/.bin/eslint --format codeframe .",
-    "lint:fix": "./node_modules/.bin/eslint --fix --format codeframe .",
+    "lint": "./node_modules/.bin/eslint --format codename .",
+    "lint:fix": "./node_modules/.bin/eslint --fix --format codename .",
     "test": "./node_modules/.bin/mocha tests.js"
   },
   "repository": {
